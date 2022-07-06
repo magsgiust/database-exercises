@@ -1,1 +1,1 @@
-This repo contains mysql database exercises for the darden cohort. 
+This repo contains the mysql database exercises. 
